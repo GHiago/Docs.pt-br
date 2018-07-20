@@ -34,10 +34,10 @@ Nesta seção, é feito o scaffold do modelo de filme. Ou seja, a ferramenta de 
 
 Crie uma pasta *Pages/Movies*:
 
-* No **Gerenciador de Soluções**, clique com o botão direito do mouse na pasta *Páginas* > **Adicionar** > **Nova Pasta**.
-* Dê à pasta o nome *Filmes*
+* No **Gerenciador de Soluções**, clique com o botão direito do mouse na pasta *Pages* > **Adicionar** > **Nova Pasta**.
+* Dê à pasta o nome *Movies*
 
-No **Gerenciador de Soluções**, clique com o botão direito do mouse na pasta *Páginas/Filmes* pasta > **Adicionar** > **Novo item com scaffold**.
+No **Gerenciador de Soluções**, clique com o botão direito do mouse na pasta *Pages/Movies* pasta > **Adicionar** > **Novo item com scaffold**.
 
 ![Imagem das instruções anteriores.](model/_static/sca.png)
 
@@ -47,7 +47,7 @@ Na caixa de diálogo **Adicionar Scaffold**, selecione **Razor Pages usando o En
 
 Conclua a caixa de diálogo **Adicionar Razor Pages usando o Entity Framework (CRUD)**:
 
-* Na lista suspensa **Classe de modelo**, selecione **Filme (RazorPagesMovie.Models)**.
+* Na lista suspensa **Classe de modelo**, selecione **Movie (RazorPagesMovie.Models)**.
 * Na linha **Classe de contexto de dados**, selecione o sinal **+** (+) e aceite o nome gerado **RazorPagesMovie.Models.RazorPagesMovieContext**.
 * Na lista suspensa **Classe de contexto de dados**, selecione **RazorPagesMovie.Models.RazorPagesMovieContext**
 * Selecione **Adicionar**.
